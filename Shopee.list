@@ -2,6 +2,6 @@
 # 域名关键字匹配
 # DOMAIN-KEYWORD,shopee
 # 域名后缀匹配
-DOMAIN,shopee.com
-DOMAIN-SUFFIX,shopee.com
+DOMAIN,shopee.tw
+DOMAIN-SUFFIX,shopee.tw
 
