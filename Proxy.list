@@ -1,7 +1,3 @@
-DOMAIN-SUFFIX,lunaproxy.com
-DOMAIN-SUFFIX,bulianglin.com
-DOMAIN-SUFFIX,logseq.com
-DOMAIN-SUFFIX,reader.cx
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
@@ -22,6 +18,10 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
+DOMAIN-SUFFIX,lunaproxy.com
+DOMAIN-SUFFIX,bulianglin.com
+DOMAIN-SUFFIX,logseq.com
+DOMAIN-SUFFIX,reader.cx
 DOMAIN-SUFFIX,polymarket.com
 DOMAIN-SUFFIX,cacapex.com
 DOMAIN-SUFFIX,1lib.sk
