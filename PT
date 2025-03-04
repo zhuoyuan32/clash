@@ -1,0 +1,9 @@
+# 内容：PT
+# 域名关键字匹配
+# DOMAIN-KEYWORD,pttime.org
+# DOMAIN-KEYWORD,rousi.zip
+# DOMAIN-KEYWORD,shopee
+# 域名后缀匹配
+- DOMAIN-KEYWORD,pttime
+- DOMAIN-KEYWORD,ptcafe
+- DOMAIN-KEYWORD,rousi
