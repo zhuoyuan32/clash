@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,z-lib.sk
 DOMAIN-SUFFIX,z-lib.bz
 DOMAIN-SUFFIX,dnsleaktest.org
 # 其他网站
+DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,tana.inc
 DOMAIN-SUFFIX,obsproject.com
