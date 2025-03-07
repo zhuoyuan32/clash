@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 DOMAIN-SUFFIX,fcdn.sk
 DOMAIN-SUFFIX,dnsleaktest.org
 # 其他网站
+DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,movie-pilot.org
 DOMAIN-SUFFIX,docker.io
