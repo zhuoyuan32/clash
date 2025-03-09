@@ -22,6 +22,10 @@ DOMAIN-SUFFIX,1lib.sk
 DOMAIN-SUFFIX,6bcloud.top
 DOMAIN-SUFFIX,ping0.cc
 # 代理补充列表
+# z-library
+DOMAIN-SUFFIX,zh.z-lib.gs
+DOMAIN-SUFFIX,z-library.sk
+DOMAIN-SUFFIX,reader.cx
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
