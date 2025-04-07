@@ -1,7 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,rousipt.com
 DOMAIN-SUFFIX,test-ipv6.com
 DOMAIN-SUFFIX,dianxiaomi.com
 DOMAIN-SUFFIX,time.windows.com
@@ -11,12 +10,6 @@ DOMAIN-SUFFIX,todoist.com
 DOMAIN-SUFFIX,siliconflow.cn
 DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,ayuange.top
-DOMAIN-KEYWORD,pttime
-DOMAIN-KEYWORD,ptcafe
-DOMAIN-KEYWORD,rousi
-DOMAIN-KEYWORD,lemonhd
-DOMAIN-KEYWORD,ilovelemonhd
-DOMAIN-KEYWORD,m-team
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
 # 域名关键字匹配
