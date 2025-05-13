@@ -1,5 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # MyList
+# PT站直连
+DOMAIN-SUFFIX,pttime.org
+DOMAIN-SUFFIX,ptcafe.club
+DOMAIN-SUFFIX,rousi.zip
 # 域名后缀匹配
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,nn.ci
@@ -18,13 +22,9 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,todoist.com
 DOMAIN-SUFFIX,siliconflow.cn
 DOMAIN-SUFFIX,deepseek.com
-DOMAIN-SUFFIX,ayuange.top
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # 域名后缀匹配
 DOMAIN-KEYWORD,m-team
-DOMAIN-KEYWORD,pttime
-DOMAIN-KEYWORD,ptcafe
-DOMAIN-KEYWORD,rousi
 DOMAIN-KEYWORD,lemonhd
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
