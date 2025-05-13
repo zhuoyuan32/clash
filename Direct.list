@@ -31,4 +31,4 @@ DOMAIN-KEYWORD,lemonhd
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,112.80.255.122,no-resolve
+IP-CIDR,112.80.255.122/32,no-resolve
