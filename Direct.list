@@ -3,9 +3,9 @@
 # PT站直连
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,lemonhd
-DOMAIN-KEYWORD,pttime
-DOMAIN-KEYWORD,ptcafe
-DOMAIN-KEYWORD,rousi
+# DOMAIN-KEYWORD,pttime
+# DOMAIN-KEYWORD,ptcafe
+# DOMAIN-KEYWORD,rousi
 # 域名后缀匹配
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,nn.ci
