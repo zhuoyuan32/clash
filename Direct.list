@@ -10,6 +10,9 @@ DOMAIN-KEYWORD,cspt
 DOMAIN-KEYWORD,candytally
 DOMAIN-KEYWORD,hongxingdl
 # 域名后缀匹配
+DOMAIN-SUFFIX,cspt.top
+DOMAIN-SUFFIX,cspt.date
+DOMAIN-SUFFIX,cspt.cc
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,dianbafang.com
