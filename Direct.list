@@ -10,6 +10,8 @@ DOMAIN-KEYWORD,cspt
 DOMAIN-KEYWORD,candytally
 DOMAIN-KEYWORD,hongxingdl
 # 域名后缀匹配
+DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,svcloud.one
 DOMAIN-SUFFIX,cspt.top
 DOMAIN-SUFFIX,cspt.date
 DOMAIN-SUFFIX,cspt.cc
