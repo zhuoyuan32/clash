@@ -13,12 +13,12 @@ DOMAIN-SUFFIX,cspt.cc
 # 机场直连
 DOMAIN-KEYWORD,candytally
 DOMAIN-KEYWORD,hongxingdl
-DOMAIN-KEYWORD,66jc.top
-DOMAIN-KEYWORD,poly-gw.com
+DOMAIN-SUFFIX,66jc.top
+DOMAIN-SUFFIX,poly-gw.com
 DOMAIN-SUFFIX,svcloud.one
 # emby直连
 DOMAIN-SUFFIX,okemby.org
-DOMAIN-KEYWORD,poloemby.xyz
+DOMAIN-SUFFIX,poloemby.xyz
 # 域名后缀匹配
 DOMAIN-KEYWORD,bittorrent.com
 DOMAIN-SUFFIX,1688.com
