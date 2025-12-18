@@ -1,31 +1,26 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # MyList
 # PT站直连
-DOMAIN-KEYWORD,poloemby.xyz
-DOMAIN-KEYWORD,66jc.top
-DOMAIN-KEYWORD,candytally.diy
-DOMAIN-KEYWORD,candytally.xyz
-DOMAIN-KEYWORD,candytally.pro
-DOMAIN-KEYWORD,candytally.help
-DOMAIN-KEYWORD,poly-gw.com
-DOMAIN-KEYWORD,svcloud.one
-DOMAIN-KEYWORD,okemby.org
-DOMAIN-KEYWORD,bittorrent.com
-DOMAIN-KEYWORD,tktn.be
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,lemonhd
 DOMAIN-KEYWORD,pttime
 DOMAIN-KEYWORD,ptcafe
 DOMAIN-KEYWORD,rousi
 DOMAIN-KEYWORD,cspt
-DOMAIN-KEYWORD,candytally
-DOMAIN-KEYWORD,hongxingdl
-# 域名后缀匹配
-DOMAIN-SUFFIX,okemby.org
-DOMAIN-SUFFIX,svcloud.one
 DOMAIN-SUFFIX,cspt.top
 DOMAIN-SUFFIX,cspt.date
 DOMAIN-SUFFIX,cspt.cc
+# 机场直连
+DOMAIN-KEYWORD,candytally
+DOMAIN-KEYWORD,hongxingdl
+DOMAIN-KEYWORD,66jc.top
+DOMAIN-KEYWORD,poly-gw.com
+DOMAIN-SUFFIX,svcloud.one
+# emby直连
+DOMAIN-SUFFIX,okemby.org
+DOMAIN-KEYWORD,poloemby.xyz
+# 域名后缀匹配
+DOMAIN-KEYWORD,bittorrent.com
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,dianbafang.com
