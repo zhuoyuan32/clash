@@ -48,3 +48,4 @@ DOMAIN-SUFFIX,deepseek.com
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,8.218.156.70/32,no-resolve
+IP-CIDR,23.95.92.109/32,no-resolve
