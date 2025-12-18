@@ -1,6 +1,17 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # MyList
 # PT站直连
+DOMAIN-KEYWORD,poloemby.xyz
+DOMAIN-KEYWORD,66jc.top
+DOMAIN-KEYWORD,candytally.diy
+DOMAIN-KEYWORD,candytally.xyz
+DOMAIN-KEYWORD,candytally.pro
+DOMAIN-KEYWORD,candytally.help
+DOMAIN-KEYWORD,poly-gw.com
+DOMAIN-KEYWORD,svcloud.one
+DOMAIN-KEYWORD,okemby.org
+DOMAIN-KEYWORD,bittorrent.com
+DOMAIN-KEYWORD,tktn.be
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,lemonhd
 DOMAIN-KEYWORD,pttime
