@@ -5,48 +5,42 @@ DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,lemonhd
 DOMAIN-KEYWORD,pttime
 DOMAIN-KEYWORD,ptcafe
-DOMAIN-KEYWORD,rousi
-DOMAIN-KEYWORD,cspt
-DOMAIN-SUFFIX,cspt.top
-DOMAIN-SUFFIX,cspt.date
-DOMAIN-SUFFIX,cspt.cc
+'*rousi*'
++.cspt.top
++.cspt.date
++.cspt.cc
 # 机场直连
 DOMAIN-KEYWORD,candytally
 DOMAIN-KEYWORD,hongxingdl
-DOMAIN-SUFFIX,66jc.top
-DOMAIN-SUFFIX,poly-gw.com
-DOMAIN-SUFFIX,svcloud.one
++.66jc.top
++.poly-gw.com
++.svcloud.one
 # emby直连
-DOMAIN-SUFFIX,okemby.org
-DOMAIN-SUFFIX,poloemby.xyz
++.okemby.org
++.poloemby.xyz
 # 域名后缀匹配
 DOMAIN-KEYWORD,bittorrent.com
-DOMAIN-SUFFIX,1688.com
-DOMAIN-SUFFIX,xunlei.com
-DOMAIN-SUFFIX,dianbafang.com
-DOMAIN-SUFFIX,speedtest.cn
-DOMAIN-SUFFIX,nn.ci
-DOMAIN-SUFFIX,pingdd.xin
-DOMAIN-SUFFIX,suxiaoyi.xin
-DOMAIN-SUFFIX,zhuoyuan32.com
-DOMAIN-SUFFIX,ayuange.top
-DOMAIN-SUFFIX,shopeeok.com
-DOMAIN-SUFFIX,oray.com
-DOMAIN-SUFFIX,ksord.com
-DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,dianxiaomi.com
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,siliconflow.cn
-DOMAIN-SUFFIX,deepseek.com
-# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
++.1688.com
++.xunlei.com
++.dianbafang.com
++.speedtest.cn
++.nn.ci
++.pingdd.xin
++.suxiaoyi.xin
++.zhuoyuan32.com
++.ayuange.top
++.shopeeok.com
++.oray.com
++.ksord.com
++.test-ipv6.com
++.dianxiaomi.com
++.time.windows.com
++.lanzov.com
++.hao123.com
++.siliconflow.cn
++.deepseek.com
+# +.xn--ngstr-lra8j.com
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
 
-# IP段匹配
-#IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,8.218.156.70/32,no-resolve
-IP-CIDR,23.95.92.109/32,no-resolve
-IP-CIDR,47.79.19.131/32,no-resolve
