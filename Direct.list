@@ -1,17 +1,17 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # MyList
 # PT站直连
-DOMAIN-KEYWORD,m-team
-DOMAIN-KEYWORD,lemonhd
-DOMAIN-KEYWORD,pttime
-DOMAIN-KEYWORD,ptcafe
++.m-team.+
++.lemonhd.+
++.pttime.+
++.ptcafe.+
 +.rousi.+
 +.cspt.top
 +.cspt.date
 +.cspt.cc
 # 机场直连
-DOMAIN-KEYWORD,candytally
-DOMAIN-KEYWORD,hongxingdl
++.candytally.+
++.hongxingdl.+
 +.66jc.top
 +.poly-gw.com
 +.svcloud.one
@@ -19,7 +19,7 @@ DOMAIN-KEYWORD,hongxingdl
 +.okemby.org
 +.poloemby.xyz
 # 域名后缀匹配
-DOMAIN-KEYWORD,bittorrent.com
++.bittorrent.com
 +.1688.com
 +.xunlei.com
 +.dianbafang.com
