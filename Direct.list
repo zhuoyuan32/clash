@@ -1,17 +1,16 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # MyList
 # PT站直连
-+.m-team.+
-+.lemonhd.+
-+.pttime.+
-+.ptcafe.+
-+.rousi.+
++.m-team
++.lemonhd
++.pttime
++.ptcafe
++.rousi
 +.cspt.top
 +.cspt.date
 +.cspt.cc
 # 机场直连
-+.candytally.+
-+.hongxingdl.+
++.candytally
 +.66jc.top
 +.poly-gw.com
 +.svcloud.one
