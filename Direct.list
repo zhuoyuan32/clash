@@ -1,6 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # MyList
 # PT站直连
++.follow.is
 +.m-team.cc
 +.lemonhd.club
 +.ilovelemonhd.me
