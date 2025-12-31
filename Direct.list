@@ -1,8 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # MyList
 # PT站直连
-+.tailwindcss.com
-+.follow.is
 +.m-team.cc
 +.lemonhd.club
 +.ilovelemonhd.me
@@ -27,6 +25,8 @@
 +.poloemby.xyz
 
 # 域名后缀匹配
++.follow.is
++.tailwindcss.com
 +.yunwuyun.com
 +.baipiao.eu.org
 +.bittorrent.com
